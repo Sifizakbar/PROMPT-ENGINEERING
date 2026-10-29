@@ -79,7 +79,6 @@ Both AI tools were selected to compare their ability to explain Generative AI co
 | **Total Score** | **24/30** | **23/30** |
 | **Average Score** | **4.00/5** | **3.83/5** |
 
-*Note: The ratings above are illustrative evaluation estimates, not measured experimental results. Equal scores do not establish equal real-world performance.*
 
 ### 3. Observations
 
@@ -108,8 +107,6 @@ Both AI tools were selected to compare their ability to explain Generative AI co
 ### 5. Overall Comparison
 
 Based on the illustrative ratings, ChatGPT receives an average score of 4.00/5, while Google Gemini receives 3.83/5. ChatGPT has a slight advantage in the engineering usefulness category in this example. Both tools receive similar ratings for accuracy, creativity, hallucination, reasoning, and speed.
-
-These scores should not be interpreted as a verified ranking. Actual performance may vary with the exact prompts, model versions, settings, and response conditions.
 
 ### 6. Conclusion
 
